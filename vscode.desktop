@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=VisualStudioCode
+Exec=/home/zhou/workspace/program/Editor/Vscode/install/VSCode-linux-x64/bin/code
+Path=/home/zhou/workspace/program/Editor/Vscode/install/VSCode-linux-x64/bin
+Icon=/home/zhou/workspace/program/Editor/Vscode/install/code.png
+StartupNotify=true
+StartupWMClass=code
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+

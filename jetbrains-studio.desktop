@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=studio
+Path=/home/zhou/workspace/program/Editor/AndroidStudio/android-studio/bin
+Icon=/home/zhou/workspace/program/Editor/AndroidStudio/android-studio/bin/studio.png
+Exec=/home/zhou/workspace/program/Editor/AndroidStudio/android-studio/bin/studio.sh
+StartupNotify=true
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+

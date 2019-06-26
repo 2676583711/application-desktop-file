@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=chrome
+Icon=google-chrome
+Exec=/usr/bin/google-chrome
+StartupNotify=false
+StartupWMClass=Google-chrome
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+
+
+

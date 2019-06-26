@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=SpringToolSuite
+Exec=/home/zhou/workspace/program/Editor/SpingBoot/Install/sts/SpringToolSuite4
+Path=/home/zhou/workspace/program/Editor/SpingBoot/Install/sts
+Icon=/home/zhou/workspace/program/Editor/SpingBoot/Install/icon.xpm
+StartupNotify=true
+StartupWMClass=SpringToolSuite4
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+Name[zh_CN]=SpringToolSuite4

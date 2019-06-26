@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=NetBeans IDE 8.2
+Icon=bamficonvozonz.png
+Path=/home/zhou/workspace/program/Editor/Netbeans/netbeans-8.2/bin
+Exec=/home/zhou/workspace/program/Editor/Netbeans/netbeans-8.2/bin/netbeans
+StartupNotify=false
+StartupWMClass=NetBeans IDE 8.2
+OnlyShowIn=Unity;
+X-UnityGenerated=true

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=pycharm
+Path=/home/zhou/workspace/program/Editor/pycharm/professional/install/pycharm/bin
+Icon=/home/zhou/workspace/program/Editor/pycharm/professional/install/pycharm/bin/pycharm.png
+Exec=/home/zhou/workspace/program/Editor/pycharm/professional/install/pycharm/bin/pycharm.sh
+StartupNotify=true
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+

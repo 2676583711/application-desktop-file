@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=eclipse
+Exec=/home/zhou/workspace/program/Editor/Eclipse/Install/eclipse/eclipse
+Icon=/home/zhou/workspace/program/Editor/Eclipse/pictures/javaee-ide_x48.png
+Path=/home/zhou/workspace/program/Editor/Eclipse/Install/eclipse
+StartupNotify=false
+StartupWMClass=eclipse
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+
+ 

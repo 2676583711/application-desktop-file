@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=firefox
+Icon=/home/zhou/workspace/SOFTWARE/Firefox/pictures/firefox.jpg
+Path=/home/zhou/workspace/SOFTWARE/Firefox/firefox
+Exec=/home/zhou/workspace/SOFTWARE/Firefox/firefox/firefox
+StartupNotify=false
+StartupWMClass=firefox
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+
